@@ -1,0 +1,65 @@
+# travel.comcom｜貼文 1「台灣賞楓時間軸」圖片出處與授權
+# 本檔僅供內部對稿與發文標示使用，圖片尚未對外上傳。
+
+============================================================
+01.jpg｜封面：武陵農場楓紅
+============================================================
+來源種類：公開實景照片（往年拍攝，非 2026 即時楓況）
+檔名：2020 Maple Foliage at Wuling Farm Taiwan.jpg
+Wikimedia Commons 頁面：
+  https://commons.wikimedia.org/wiki/File:2020_Maple_Foliage_at_Wuling_Farm_Taiwan.jpg
+原圖直連：
+  https://upload.wikimedia.org/wikipedia/commons/9/9a/2020_Maple_Foliage_at_Wuling_Farm_Taiwan.jpg
+作者：Taiwankengo
+授權：CC BY-SA 4.0
+授權條款頁：https://creativecommons.org/licenses/by-sa/4.0
+拍攝日期：2020-11-26
+使用方式：裁切為 4:5、暖色調後製、加上標題與作者／授權標示。改作須以相同或相容授權釋出。
+圖上標示：Photo: Taiwankengo / CC BY-SA 4.0 / Wikimedia Commons
+
+============================================================
+02.jpg｜雪霸國家公園／武陵農場楓葉與溪流
+============================================================
+來源種類：公開實景照片（往年拍攝，非 2026 即時楓況）
+選用檔案：Shei_Pa_National_Park_CHEN_SHI_XUAN_01.jpg
+  （未選用 _08.jpg：_08 為池面倒影，葉色偏黃綠，畫面有遊客與車輛；
+   _01 為近景楓葉層次與溪流，楓紅更清楚，構圖較乾淨。）
+Wikimedia Commons 頁面：
+  https://commons.wikimedia.org/wiki/File:Shei_Pa_National_Park_CHEN_SHI_XUAN_01.jpg
+原圖直連：
+  https://upload.wikimedia.org/wikipedia/commons/9/97/Shei_Pa_National_Park_CHEN_SHI_XUAN_01.jpg
+作者：Steven60903
+授權：CC BY-SA 4.0
+授權條款頁：https://creativecommons.org/licenses/by-sa/4.0
+拍攝日期：2020-11-16
+說明（Commons）：Maple leaves of Wuling Farm in Shei Pa National Park
+使用方式：裁切為 4:5、暖色調後製、加上作者／授權標示。改作須以相同或相容授權釋出。
+圖上標示：Photo: Steven60903 / CC BY-SA 4.0 / Wikimedia Commons
+
+============================================================
+03.jpg｜福壽山／梨山秋季湖畔楓景
+============================================================
+來源種類：AI 生成示意畫面（非實景、非即時楓況）
+提示依據：帖文 brief「台灣中高海拔農場湖畔……清晨側光」
+授權：由本帳自行生成之示意圖像，非 Wikimedia 素材，未標為實景照片。
+圖上標示：福壽山：暖冬年，可能要到 11 月下旬才全紅／示意畫面
+
+============================================================
+04.jpg｜時間軸文字卡「2026 台灣賞楓怎麼選」
+============================================================
+來源種類：自行製圖（非實景）
+內容文字完全依 brief：標題、四段時間軸與底部提醒。
+授權：本帳自行設計。
+
+============================================================
+05.jpg｜奧萬大吊橋與谷地楓香
+============================================================
+來源種類：AI 生成示意畫面（非實景、非即時楓況）
+提示依據：帖文 brief「山谷中一座素色吊橋……色調金黃為主」
+授權：由本帳自行生成之示意圖像，非 Wikimedia 素材，未標為實景照片。
+圖上標示：奧萬大：11 月–翌年 1 月，全紅看寒流／示意畫面
+
+============================================================
+建議附加在文案末（或第一則留言）的授權句
+============================================================
+封面照片：Taiwankengo，Wikimedia Commons《2020 Maple Foliage at Wuling Farm Taiwan.jpg》，CC BY-SA 4.0（https://creativecommons.org/licenses/by-sa/4.0）。第 2 張：Steven60903，Wikimedia Commons《Shei Pa National Park CHEN SHI XUAN 01.jpg》，CC BY-SA 4.0。以上兩張為往年實景（分別拍攝於 2020-11-26、2020-11-16），經裁切與色調調整，非 2026 即時楓況；改作以相同授權標示。第 3、5 張為示意生成畫面，第 4 張為自行製圖。
