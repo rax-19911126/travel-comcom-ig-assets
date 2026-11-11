@@ -1,0 +1,77 @@
+# travel.comcom｜2026-11-14 18:00「台中週末展覽市集」圖片出處與授權
+# 本檔僅供對稿與發文標示；圖片經 GitHub raw 公開託管，但尚未排程發文。
+# 本篇不使用官方活動海報，也不使用有版權的角色形象。
+
+============================================================
+01.jpg｜封面：草悟道
+============================================================
+來源種類：公開實景照片（往年街區，非 2026 耶誕裝置）
+選用檔案：The_Calligraphy_Greenway_in_Taichung.jpg
+（未選用 Calligraphy_Greenway_with_Park_Lane_by_CMP_01.jpg：後者特寫 Starbucks、FamilyMart 等商標，與「不要出現未授權商標特寫」不符；改用林蔭水景、較乾淨的草悟道畫面。）
+Wikimedia Commons：https://commons.wikimedia.org/wiki/File:The_Calligraphy_Greenway_in_Taichung.jpg
+原圖：https://upload.wikimedia.org/wikipedia/commons/6/63/The_Calligraphy_Greenway_in_Taichung.jpg
+作者：Dquai
+授權：CC BY-SA 4.0
+授權條款：https://creativecommons.org/licenses/by-sa/4.0
+拍攝日期：2018-05-30
+圖上標示：Photo: Dquai / CC BY-SA 4.0 / Wikimedia Commons
+
+============================================================
+02.jpg｜往年新社花海
+============================================================
+來源種類：公開實景照片（往年花田，非 2026 主題裝置）
+檔名：Sea_of_Flower_in_Xinshe.jpg
+Wikimedia Commons：https://commons.wikimedia.org/wiki/File:Sea_of_Flower_in_Xinshe.jpg
+原圖：https://upload.wikimedia.org/wikipedia/commons/5/53/Sea_of_Flower_in_Xinshe.jpg
+作者：Dquai
+授權：CC BY-SA 4.0
+授權條款：https://creativecommons.org/licenses/by-sa/4.0
+拍攝日期：2000s（Commons 僅標示 2000s）
+圖上標示：新社花海至 11/22・08:30–16:30・免費
+         往年新社花海示意，非 2026 主題裝置
+         Photo: Dquai / CC BY-SA 4.0 / Wikimedia Commons
+
+============================================================
+03.jpg｜國立臺灣美術館外觀（示意）
+============================================================
+來源種類：AI 生成示意畫面（非實景外觀）
+改用原因：brief 建議之 File:National_Taiwan_Museum_of_Fine_Arts_20170122.jpg
+（Mariversa，CC BY-SA 2.0，2017-01-22）經查確實存在且授權如述，但畫面主體是 2016「一座島嶼的可能性」等展覽巨型戶外海報，屬展覽平面／作品圖，與「不要使用展覽作品圖」衝突，且易被誤認為當期展。另查多張正面實景（20150510、外觀 20091115、NTMoFA-1 以外多數正面照等）同樣被過往展覽海報佔據。改以不帶海報、招牌與戶外雕塑的建築示意生成，並標「示意畫面（非實景外觀）」。
+
+============================================================
+04.jpg｜臺中市立美術館／綠美圖（示意）
+============================================================
+來源種類：AI 生成示意畫面（非實景；依 brief 避免誤用官方空拍）
+圖上標示：中美館．真鍋大度個展至 2027/1/3／週六 09:00–20:00／示意畫面
+畫面為曲線玻璃量體的當代美術館示意，無館名招牌。
+
+============================================================
+05.jpg｜勤美誠品綠園道外觀
+============================================================
+來源種類：公開實景照片（往年建築外觀，非 2026 聖誕燈飾）
+檔名：View_of_Park_Lane_by_CMP_from_Gongyi_Road,_Taichung.jpg
+Wikimedia Commons：https://commons.wikimedia.org/wiki/File:View_of_Park_Lane_by_CMP_from_Gongyi_Road,_Taichung.jpg
+原圖：https://upload.wikimedia.org/wikipedia/commons/6/66/View_of_Park_Lane_by_CMP_from_Gongyi_Road%2C_Taichung.jpg
+作者：Tbatb
+授權：CC BY-SA 4.0
+授權條款：https://creativecommons.org/licenses/by-sa/4.0
+拍攝日期：2021-01-20
+使用方式：裁切為 4:5，保留植生牆主體、避開右側店招廣告；車牌作輕微模糊。
+圖上標示：PARKLANE CHRISTMAS 2026｜官方檔期 11/10–1/4
+         往年建築外觀，非 2026 聖誕燈飾
+         Photo: Tbatb / CC BY-SA 4.0 / Wikimedia Commons
+
+============================================================
+06.jpg｜本週末行程文字卡「11/14–15 台中怎麼排」
+============================================================
+來源種類：自行製圖（非實景）
+條列文字完全依 brief；底部兩行：「出發前再看官方。本篇為整理，不是現場實況轉播。」
+
+============================================================
+建議附加在文案末（或第一則留言）的授權句
+============================================================
+1. Dquai，Wikimedia Commons《The Calligraphy Greenway in Taichung.jpg》，CC BY-SA 4.0（https://creativecommons.org/licenses/by-sa/4.0），草悟道往年街區（2018 年拍攝，非 2026 耶誕裝置）。
+2. Dquai，Wikimedia Commons《Sea of Flower in Xinshe.jpg》，CC BY-SA 4.0，往年新社花海示意（非 2026 主題裝置）。
+3. 第 3 張國美館為示意生成畫面：brief 建議之 Mariversa《National Taiwan Museum of Fine Arts 20170122.jpg》（CC BY-SA 2.0）經查存在且授權如述，但畫面以 2016 年展覽戶外海報為主體，為避免使用展覽作品圖並防止被誤認為當期展，故改為不帶海報的建築示意。
+4. Tbatb，Wikimedia Commons《View of Park Lane by CMP from Gongyi Road, Taichung.jpg》，CC BY-SA 4.0，勤美誠品綠園道往年建築外觀（2021 年拍攝，非 2026 燈飾）。
+第 4 張為中美館示意生成畫面，第 6 張為自行製圖。本篇不使用官方活動海報或有版權的角色形象。
