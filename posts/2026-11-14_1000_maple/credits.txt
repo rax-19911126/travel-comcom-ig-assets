@@ -31,16 +31,39 @@ Wikimedia Commons：https://commons.wikimedia.org/wiki/File:Shei_Pa_National_Par
          Photo: Steven60903 / CC BY-SA 4.0 / Wikimedia Commons
 
 ============================================================
-03.jpg｜福壽山／梨山秋季湖畔楓景
+03.jpg｜福壽山農場松廬楓紅
 ============================================================
-來源種類：AI 生成示意畫面（非實景、非即時楓況）
-圖上標示：福壽山：場方表示，暖冬年可能要到 11 月下旬才全紅／示意畫面
+來源種類：公開實景照片（往年拍攝，非 2026 即時楓況）
+選用檔案：Shei-Pa National Park-Jerry Shen-03.jpg
+Wikimedia Commons：https://commons.wikimedia.org/wiki/File:Shei-Pa_National_Park-Jerry_Shen-03.jpg
+原圖：https://upload.wikimedia.org/wikipedia/commons/0/02/Shei-Pa_National_Park-Jerry_Shen-03.jpg
+作者：Jerryshen888
+授權：CC BY-SA 4.0
+授權條款：https://creativecommons.org/licenses/by-sa/4.0
+拍攝日期：2023-11-27
+描述：Commons 說明為「在福壽山農場的松廬楓紅」
+使用方式：裁切為 4:5（left_bias=0.80），以紅楓與石燈為主體，避開畫面左側拍照遊客。
+圖上標示：福壽山：場方表示，暖冬年可能要到 11 月下旬才全紅
+         往年實景，非 2026 即時楓況
+         Photo: Jerryshen888 / CC BY-SA 4.0 / Wikimedia Commons
+備註：這是園區松廬步道的楓紅，不是天池或蘋果園。另有 Joe111xx《福壽山楓葉.jpg》（CC BY-SA 4.0，2015-11-15）亦為農場楓葉，但為特寫且帶「PHOTOGRAPHY BY JOE.HUANG」浮水印，故未採用。
 
 ============================================================
-04.jpg｜奧萬大吊橋與谷地楓香
+04.jpg｜奧萬大秋季樹景
 ============================================================
-來源種類：AI 生成示意畫面（非實景、非即時楓況）
-圖上標示：奧萬大：11 月–翌年 1 月，全紅看寒流／示意畫面
+來源種類：公開實景照片（往年拍攝，非 2026 即時楓況）
+選用檔案：Scenic in Aowanda.jpg
+Wikimedia Commons：https://commons.wikimedia.org/wiki/File:Scenic_in_Aowanda.jpg
+原圖：https://upload.wikimedia.org/wikipedia/commons/5/5e/Scenic_in_Aowanda.jpg
+作者：Ares Hsu
+授權：CC BY 2.0
+授權條款：https://creativecommons.org/licenses/by/2.0
+拍攝日期：2015-12-21
+使用方式：裁切為 4:5（left_bias=0.62），以草坪上三株轉色林木為主體。
+圖上標示：奧萬大：11 月–翌年 1 月，全紅看寒流
+         往年實景，非 2026 即時楓況
+         Photo: Ares Hsu / CC BY 2.0 / Wikimedia Commons
+備註：畫面為奧萬大園區草坪旁的秋季轉色林木（外觀接近落羽松，不是典型掌狀葉楓香），且未拍到吊橋。Commons 另有 Fcuk1203《奧萬大天梯.jpg》（CC BY-SA 3.0，2011-12-11）實為園區吊橋，但當時週邊林木仍偏綠、橋上遊客眾多，故改選這張秋季色葉更清楚的 2015 年實景。未找到同時具備吊橋與明顯楓紅、且授權為 CC BY／CC BY-SA 的高解析照片。
 
 ============================================================
 05.jpg｜時間軸文字卡「2026 中部賞楓怎麼選」
@@ -51,4 +74,4 @@ Wikimedia Commons：https://commons.wikimedia.org/wiki/File:Shei_Pa_National_Par
 ============================================================
 建議附加在文案末（或第一則留言）的授權句
 ============================================================
-封面照片：Taiwankengo，Wikimedia Commons《2020 Maple Foliage at Wuling Farm Taiwan.jpg》，CC BY-SA 4.0（https://creativecommons.org/licenses/by-sa/4.0）。第 2 張：Steven60903，Wikimedia Commons《Shei Pa National Park CHEN SHI XUAN 01.jpg》，CC BY-SA 4.0。以上兩張為往年實景（分別拍攝於 2020-11-26、2020-11-16），經裁切與色調調整，非 2026 即時楓況；改作以相同授權標示。第 3、4 張為示意生成畫面，第 5 張為自行製圖。
+封面照片：Taiwankengo，Wikimedia Commons《2020 Maple Foliage at Wuling Farm Taiwan.jpg》，CC BY-SA 4.0（https://creativecommons.org/licenses/by-sa/4.0），武陵農場楓紅（2020-11-26 拍攝）。第 2 張：Steven60903，Wikimedia Commons《Shei Pa National Park CHEN SHI XUAN 01.jpg》，CC BY-SA 4.0（2020-11-16 拍攝）。第 3 張：Jerryshen888，Wikimedia Commons《Shei-Pa National Park-Jerry Shen-03.jpg》，CC BY-SA 4.0，福壽山農場松廬楓紅（2023-11-27 拍攝）。第 4 張：Ares Hsu，Wikimedia Commons《Scenic in Aowanda.jpg》，CC BY 2.0（https://creativecommons.org/licenses/by/2.0），奧萬大秋季樹景（2015-12-21 拍攝）。以上四張均為往年實景，經裁切與色調調整，非 2026 即時楓況；改作以相同或相容授權標示。第 5 張為自行製圖。
