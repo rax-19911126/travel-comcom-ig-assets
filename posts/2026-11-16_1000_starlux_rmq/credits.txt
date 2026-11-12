@@ -1,0 +1,197 @@
+# travel.comcom｜2026-11-16 10:00「星宇從台中直飛」圖片出處與授權
+# 本檔僅供對稿與發文標示；圖片經 GitHub raw 公開託管，但尚未排程發文。
+# 授權與來源已標在各張圖片上。建議第一則留言只放出發前提醒，不放授權清單。
+# 圖上事實一律依照 /workspace/posts/20261116_1000_機票_v3_caption.txt，未寫已截止的富國島優惠，也未寫已失效班次。
+# 全組未使用星宇官方識別或 Logo，也未使用 AI 生成圖。
+
+============================================================
+授權總覽（Wikimedia Commons API 查證，User-Agent: IG-Retoucher/1.0）
+============================================================
+本組 02–08 為真實照片（Wikimedia Commons CC / CC0 / 公有領域），經 Commons imageinfo API 核對作者與授權後再使用。
+含 CC BY-SA 照片的幻燈片（02 札幌、04 神戶、05 高松、06 宮古島、08 澳門與峴港）屬於對原作的改編（裁切、調色、 typography overlay），應依 ShareAlike 以相容授權標示與分享。CC BY 2.5 / 2.0（05 熊本、06 沖繩）需保留作者與授權標示。CC0 / 公有領域仍於圖上標出作者與來源。
+
+============================================================
+01.jpg｜封面航線圖（使用者已核准，原圖直接轉 JPEG）
+============================================================
+來源：/workspace/posts/assets/20261116_starlux_rmq_routes.png（1080×1350 RGBA PNG）
+底圖：Natural Earth 10m land（公有領域）
+圖上既有標示：星宇・從台中直飛／12 個航點　不必先跑桃園
+頁尾：底圖：Natural Earth（公有領域）　本圖非星宇官方航線圖，也未使用官方識別
+使用方式：按原尺寸轉成 sRGB JPEG（quality 90），未改構圖、未加 Logo、未重繪航線。
+
+============================================================
+02.jpg｜札幌
+============================================================
+檔名：File:Odori_park_at_Sapporo_TV_tower.jpg
+作者：LR0725
+授權：CC BY-SA 4.0（https://creativecommons.org/licenses/by-sa/4.0）
+尺寸：3000×4000
+Commons：https://commons.wikimedia.org/wiki/File:Odori_park_at_Sapporo_TV_tower.jpg
+原圖：https://upload.wikimedia.org/wikipedia/commons/4/40/Odori_park_at_Sapporo_TV_tower.jpg
+圖上標示：札幌／2026/10/2 起直飛／Photo: LR0725 / CC BY-SA 4.0 / Wikimedia Commons
+使用方式：裁成 4:5（top_bias=0.35）。道路車輛過小，看不出車牌，未做模糊。
+備註：所列照片是從／在電視塔往大通公園俯瞰，畫面裡看不到電視塔本體。依 brief 使用所列檔，未另換圖。
+
+============================================================
+03.jpg｜成田（東京）
+============================================================
+檔名：File:20181123_Tokyo_Skytree-2.jpg
+作者：Balon Greyjoy
+授權：CC0（https://creativecommons.org/publicdomain/zero/1.0/）
+尺寸：3840×5760
+Commons：https://commons.wikimedia.org/wiki/File:20181123_Tokyo_Skytree-2.jpg
+原圖：https://upload.wikimedia.org/wikipedia/commons/7/7b/20181123_Tokyo_Skytree-2.jpg
+圖上標示：成田（東京）／Photo: Balon Greyjoy / CC0 / Wikimedia Commons
+使用方式：裁成 4:5（top_bias=0.00），保留塔冠。無近距離人臉或車牌。
+備註：標題依 v3 文案寫「成田（東京）」，不是只寫東京。
+
+============================================================
+04.jpg｜名古屋＋神戶（上下對半）
+============================================================
+上半｜名古屋
+檔名：File:Nagoya_Castle_(67295).jpg
+作者：Syced
+授權：CC0（https://creativecommons.org/publicdomain/zero/1.0/）
+尺寸：4080×3072
+Commons：https://commons.wikimedia.org/wiki/File:Nagoya_Castle_(67295).jpg
+原圖：https://upload.wikimedia.org/wikipedia/commons/b/b7/Nagoya_Castle_%2867295%29.jpg
+圖上標示：名古屋／2026/10/25 起直飛／Photo: Syced / CC0 / Wikimedia Commons
+使用方式：裁成 8:5（top_bias=0.45）。
+備註：所列照片是名古屋城屋脊／鬼瓦特寫，不是城堡全景。依 brief 使用所列檔，未另換圖。
+
+下半｜神戶
+檔名：File:Kobe_Port_Tower_at_night.jpg
+作者：Pauloleong2002
+授權：CC BY-SA 4.0（https://creativecommons.org/licenses/by-sa/4.0）
+尺寸：3456×4608
+Commons：https://commons.wikimedia.org/wiki/File:Kobe_Port_Tower_at_night.jpg
+原圖：https://upload.wikimedia.org/wikipedia/commons/2/26/Kobe_Port_Tower_at_night.jpg
+圖上標示：神戶／Photo: Pauloleong2002 / CC BY-SA 4.0 / Wikimedia Commons
+使用方式：裁成 8:5（left_bias=0.52, top_bias=0.38），夜景調色，塔身置中；前景桌面大多被裁掉。無近距離可辨識人臉。
+
+============================================================
+05.jpg｜高松＋熊本（上下對半）
+============================================================
+上半｜高松（栗林公園）—— 未使用 brief 所列檔，改用無浮水印替代照
+未使用：File:Ritsurin_Garden,_Kagawa_Prefecture;_November_2019_(07).jpg
+作者 Sei F，CC BY-SA 2.0，6000×4000。右下角有清楚的「© SeiF」浮水印，依「不用帶浮水印的圖」規則整張不用。
+替代採用：File:Ritsurin Garden.jpg
+作者：Mason tang photography
+授權：CC BY-SA 4.0（https://creativecommons.org/licenses/by-sa/4.0）
+尺寸：6240×4160，無浮水印，池、橋、松的經典取景
+Commons：https://commons.wikimedia.org/wiki/File:Ritsurin_Garden.jpg
+原圖：https://upload.wikimedia.org/wikipedia/commons/7/7b/Ritsurin_Garden.jpg
+圖上標示：高松／Photo: Mason tang photography / CC BY-SA 4.0 / Wikimedia Commons
+使用方式：先 zoom=1.10、left_bias=0.85 裁成 8:5，切掉左側步道人群；橋上只剩極小、無法辨識的人影，未做臉部模糊。
+
+下半｜熊本
+檔名：File:Kumamoto_Castle_04n4272.jpg
+作者：663highland
+授權：CC BY 2.5（https://creativecommons.org/licenses/by/2.5）
+尺寸：4272×2848
+Commons：https://commons.wikimedia.org/wiki/File:Kumamoto_Castle_04n4272.jpg
+原圖：https://upload.wikimedia.org/wikipedia/commons/d/de/Kumamoto_Castle_04n4272.jpg
+圖上標示：熊本／Photo: 663highland / CC BY 2.5 / Wikimedia Commons
+使用方式：先裁到天守與石垣（約 (200, 0, w-80, int(h*0.70))），再裁成 8:5（top_bias=0.15），把步道上的遊客切出畫面，因此不需臉部模糊。
+
+============================================================
+06.jpg｜沖繩＋宮古島（上下對半）
+============================================================
+上半｜沖繩
+檔名：File:Cape_Manzamo,_Onna,_Okinawa_-_Feb_17,_2019.jpg
+作者：Nelo Hotsuma
+授權：CC BY 2.0（https://creativecommons.org/licenses/by/2.0）
+尺寸：4000×6000
+Commons：https://commons.wikimedia.org/wiki/File:Cape_Manzamo,_Onna,_Okinawa_-_Feb_17,_2019.jpg
+原圖：https://upload.wikimedia.org/wikipedia/commons/4/4d/Cape_Manzamo%2C_Onna%2C_Okinawa_-_Feb_17%2C_2019.jpg
+圖上標示：沖繩／Photo: Nelo Hotsuma / CC BY 2.0 / Wikimedia Commons
+使用方式：裁成 8:5（left_bias=0.35, top_bias=0.22），保留萬座毛海蝕洞完整輪廓。無近距離人臉。
+
+下半｜宮古島
+檔名：File:202408_Yonaha_Maehama_Beach_around_11_o'clock_in_summer_(JK-DSC0765).jpg
+作者：Junyu-K
+授權：CC BY-SA 4.0（https://creativecommons.org/licenses/by-sa/4.0）
+尺寸：5460×3640
+Commons：https://commons.wikimedia.org/wiki/File:202408_Yonaha_Maehama_Beach_around_11_o'clock_in_summer_(JK-DSC0765).jpg
+原圖：https://upload.wikimedia.org/wikipedia/commons/0/0f/202408_Yonaha_Maehama_Beach_around_11_o%27clock_in_summer_%28JK-DSC0765%29.jpg
+圖上標示：宮古島／Photo: Junyu-K / CC BY-SA 4.0 / Wikimedia Commons
+使用方式：zoom=1.20、left_bias=1.0、top_bias=0.55 裁成 8:5，把左側較近的人物切出畫面；剩餘沙灘遊客距離遠、無法辨識，未做臉部模糊。
+
+============================================================
+07.jpg｜釜山
+============================================================
+檔名：File:Busan_Gwangan_Bridge_pylon_at_night_01.jpg
+作者：Spike
+授權：Public domain
+尺寸：3648×5472
+Commons：https://commons.wikimedia.org/wiki/File:Busan_Gwangan_Bridge_pylon_at_night_01.jpg
+原圖：https://upload.wikimedia.org/wikipedia/commons/c/ce/Busan_Gwangan_Bridge_pylon_at_night_01.jpg
+圖上標示：釜山／Photo: Spike / Public domain / Wikimedia Commons
+使用方式：裁成 4:5（top_bias=0.12），夜景調色。無人臉、無車牌。
+
+============================================================
+08.jpg｜澳門、峴港、富國島（三等分橫幅）
+============================================================
+上｜澳門
+檔名：File:Macau_-_Ruins_of_Saint_Paul's_(Ank_Kumar)_01.jpg
+作者：Ank Kumar
+授權：CC BY-SA 4.0（https://creativecommons.org/licenses/by-sa/4.0）
+尺寸：4425×2950
+Commons：https://commons.wikimedia.org/wiki/File:Macau_-_Ruins_of_Saint_Paul's_(Ank_Kumar)_01.jpg
+原圖：https://upload.wikimedia.org/wikipedia/commons/5/5f/Macau_-_Ruins_of_Saint_Paul%27s_%28Ank_Kumar%29_01.jpg
+圖上標示：澳門／Photo: Ank Kumar / CC BY-SA 4.0 / Wikimedia Commons
+使用方式：先取原圖上方 62% 高度，切掉階梯上的觀光客群，再裁成約 2.4:1。畫面為立面與石牆，無近距離人臉。
+
+中｜峴港
+檔名：File:Golden_Bridge_above_the_clouds_Ba_Na_Hills_Da_Nang_Vietnam.jpg
+作者：Vivu Vietnam
+授權：CC BY-SA 4.0（https://creativecommons.org/licenses/by-sa/4.0）
+尺寸：4932×3288
+Commons：https://commons.wikimedia.org/wiki/File:Golden_Bridge_above_the_clouds_Ba_Na_Hills_Da_Nang_Vietnam.jpg
+原圖：https://upload.wikimedia.org/wikipedia/commons/d/d7/Golden_Bridge_above_the_clouds_Ba_Na_Hills_Da_Nang_Vietnam.jpg
+圖上標示：峴港／Photo: Vivu Vietnam / CC BY-SA 4.0 / Wikimedia Commons
+使用方式：裁成約 2.4:1（top_bias=0.32），保留金橋、雲海。橋上行人極小，無法辨識，未做臉部模糊。
+
+下｜富國島
+檔名：File:1_Phu_Quoc_sunset.jpg
+作者：Elmschrat
+授權：CC0（https://creativecommons.org/publicdomain/zero/1.0/）
+尺寸：4080×3072
+Commons：https://commons.wikimedia.org/wiki/File:1_Phu_Quoc_sunset.jpg
+原圖：https://upload.wikimedia.org/wikipedia/commons/6/63/1_Phu_Quoc_sunset.jpg
+圖上標示：富國島／Photo: Elmschrat / CC0 / Wikimedia Commons
+使用方式：裁成約 2.4:1（top_bias=0.35）。日落與椰子樹；遠處小屋剪影無法辨識。未寫已於 2026/10/31 截止的台中－富國島優惠。
+
+============================================================
+09.jpg｜資訊卡｜從市區到機場，這樣坐
+============================================================
+原創資訊卡（對齊封面深色科技風格與南投資訊卡版型），無照片、無 Logo。
+圖上事實僅取自 v3 文案：
+- 333 路：2026/8/1 起改成單循環；只跑臺中國際機場到臺中車站（A 月台）；全日 24 班；機場發車約 05:00–23:25；即時動態可以看「台中 GO」
+- 555 路機場快線：可接捷運文華高中站和市政府站；每日約 05:00–23:00；市區到機場大約 40 到 60 分鐘
+- 自己開車也可以停機場周邊停車場（圖上未另寫停車場名稱）
+頁尾：資料依照官方說法以及報導為主，僅供行程參考／出發前用台中 GO 看一下即時動態
+
+============================================================
+10.jpg｜資訊卡｜星宇線上旅展，購票看到 11/23
+============================================================
+原創資訊卡，無照片、無 Logo。
+圖上事實僅取自 v3 文案：
+- 購票截止 2026/11/23
+- 出發區間 2026/10/22–2027/6/30
+- 精選航線 85 折起
+- 也包含部分台中出發航線；條件和艙等以官網為準
+- 線上旅展只到 11/23，想用這檔的要把握時間喔
+- 航點和班次會隨季節調整；下訂前再看一次星宇官網和臺中航空站時刻表
+- 公車會受路況影響，出發前用台中 GO 看一下即時動態
+頁尾：資料依照官方說法以及報導為主，僅供行程參考／本圖未使用航空公司官方識別
+
+============================================================
+preview.jpg
+============================================================
+10 張 1080×1350 成圖的聯絡表，僅供內部對稿，不作為發文圖。
+
+============================================================
+建議第一則留言（不放授權清單；全文取自 v3 caption）
+============================================================
+📌 出發前請再看一次官方資訊：星宇航空與臺中航空站的最新航點、班次和時刻表，線上旅展的優惠條件，以及公車 333、555 的即時動態，資訊都可能會調整喔！
