@@ -1,0 +1,120 @@
+# travel.comcom｜2026-11-15 10:00「南投一日遊」圖片出處與授權
+# 本檔僅供對稿與發文標示；圖片經 GitHub raw 公開託管，但尚未排程發文。
+# 授權與來源已標在各張圖片上。建議第一則留言只放出發前提醒，不放授權清單。
+# 圖上事實一律依照 /workspace/posts/20261115_nantou_caption_v2.txt。
+# 文武廟幻燈片已刪除，未寫進輪播。全組未使用 AI 生成圖，也未採用日月潭區管處「照片分享」素材。
+
+============================================================
+授權總覽（Wikimedia Commons API 查證，User-Agent: IG-Retoucher/1.0）
+============================================================
+02–06 為 Wikimedia Commons 真實照片，經 imageinfo API 核對作者與授權後再使用。
+02 埔里酒廠為 CC BY-SA 4.0，本張屬對原作的改編（裁切、調色、字體疊加、車牌／人臉模糊），應依 ShareAlike 以相容授權標示與分享。
+03、04、05、06 為 CC BY 3.0，需保留作者與授權標示。
+封面底圖為 OpenStreetMap，資料授權 ODbL，圖上已保留 © OpenStreetMap contributors。
+
+============================================================
+01.jpg｜封面路線圖（已核准原圖直接轉 JPEG）
+============================================================
+來源：/workspace/posts/assets/20261115_nantou_route.png（1080×1350 RGBA PNG）
+繪製腳本：/workspace/posts/assets/make_nantou_route.py
+底圖：官方 OpenStreetMap 圖磚（再調成深色科技感）；路線取自 OSRM／OpenStreetMap 實際道路
+圖上既有標示：南投一日遊／臺中轉運中心 → 埔里酒廠 → 向山遊客中心 → 水社
+頁尾：© OpenStreetMap contributors／底圖：OpenStreetMap　路線依實際道路繪製，僅供行程參考
+使用方式：按原尺寸轉成 sRGB JPEG（quality 90），未改構圖。
+
+============================================================
+02.jpg｜埔里酒廠展售中心外觀
+============================================================
+檔名：File:Sales Center and Cultural Artifacts Exhibition Hall, TTL Puli Brewery 20170819.jpg
+作者：Solomon203
+授權：CC BY-SA 4.0（https://creativecommons.org/licenses/by-sa/4.0）
+尺寸：4608×2592
+拍攝：2017-08-19
+Commons：https://commons.wikimedia.org/wiki/File:Sales_Center_and_Cultural_Artifacts_Exhibition_Hall,_TTL_Puli_Brewery_20170819.jpg
+原圖：https://upload.wikimedia.org/wikipedia/commons/4/4c/Sales_Center_and_Cultural_Artifacts_Exhibition_Hall%2C_TTL_Puli_Brewery_20170819.jpg
+圖上標示：埔里酒廠／假日 09:00–17:30／2017 年拍攝／Photo: Solomon203 / CC BY-SA 4.0 / Wikimedia Commons
+使用方式：先補強前次未蓋完全的車牌與可辨識人臉模糊，再裁成 4:5（left_bias=0.50），保住「酒鄉埔里」展售中心建築與招牌。4:5 可用寬度只有約 2074 px，左右會切到部分前景。
+備註：原圖偏寬。左側人群（含面向鏡頭者）已裁出畫面；來源檔仍有臉部模糊備份。車牌（含原先仍露出「3F-」的黑色轎車）已再模糊，該車也已裁出畫面。畫面前景有「玉山大曲」攤位，主體仍是酒廠展售中心。屬往年畫面，未寫成 2026 即時。
+
+============================================================
+03.jpg｜向山遊客中心（首選 lienyuan lee）
+============================================================
+檔名：File:向山遊客中心 Xiangshan Visitor Center - panoramio.jpg
+作者：lienyuan lee
+授權：CC BY 3.0（https://creativecommons.org/licenses/by/3.0）
+尺寸：6000×4000
+拍攝：2013-03-01
+Commons：https://commons.wikimedia.org/wiki/File:向山遊客中心_Xiangshan_Visitor_Center_-_panoramio.jpg
+原圖：https://upload.wikimedia.org/wikipedia/commons/6/65/%E5%90%91%E5%B1%B1%E9%81%8A%E5%AE%A2%E4%B8%AD%E5%BF%83_Xiangshan_Visitor_Center_-_panoramio.jpg
+圖上標示：向山遊客中心／每日 09:00–17:00／2013 年拍攝／Photo: lienyuan lee / CC BY 3.0 / Wikimedia Commons
+使用方式：裁成 4:5（left_bias=0.40），保留混凝土曲線量體與水池。無人臉、無車牌。
+未採用備案：forgemind《向山行政暨遊客中心-1.jpg》（2:1，4:5 較難裁）。
+
+============================================================
+04.jpg｜水社—向山自行車道（水社端）
+============================================================
+Commons 實際檔名：File:月潭自行车道 - Moon Lake Bikeway - 2012.01 - panoramio.jpg
+（brief 寫成傳統字「自行車道」，API 查詢須用簡體「自行车道」才找得到；upload 路徑仍可用。）
+作者：rheins
+授權：CC BY 3.0（https://creativecommons.org/licenses/by/3.0）
+尺寸：3200×2400
+拍攝：2012-01-31
+Commons：https://commons.wikimedia.org/wiki/File:月潭自行车道_-_Moon_Lake_Bikeway_-_2012.01_-_panoramio.jpg
+原圖：https://upload.wikimedia.org/wikipedia/commons/8/8c/%E6%9C%88%E6%BD%AD%E8%87%AA%E8%A1%8C%E8%BD%A6%E9%81%93_-_Moon_Lake_Bikeway_-_2012.01_-_panoramio.jpg
+圖上標示：水社—向山自行車道／09:00–17:00／2012 年拍攝／Photo: rheins / CC BY 3.0 / Wikimedia Commons
+使用方式：裁成 4:5（left_bias=0.20），保留左側「自行車道」告示與湖岸步道、騎士，切掉右側商店菜單立牌。遠處機車車牌無法辨識，未另做模糊。屬往年畫面，且為水社端，不是向山貼湖段特寫。
+
+============================================================
+05.jpg｜水社親水步道與碼頭
+============================================================
+檔名：File:水社亲水步道 - Shuishe Lakeside Trail - 2012.02 - panoramio.jpg
+（檔名為簡體「亲」。）
+作者：rheins
+授權：CC BY 3.0（https://creativecommons.org/licenses/by/3.0）
+尺寸：3200×2400
+拍攝：2012-02-01
+Commons：https://commons.wikimedia.org/wiki/File:水社亲水步道_-_Shuishe_Lakeside_Trail_-_2012.02_-_panoramio.jpg
+原圖：https://upload.wikimedia.org/wikipedia/commons/6/66/%E6%B0%B4%E7%A4%BE%E4%BA%B2%E6%B0%B4%E6%AD%A5%E9%81%93_-_Shuishe_Lakeside_Trail_-_2012.02_-_panoramio.jpg
+圖上標示：水社親水步道與碼頭／遊湖船 09:00 首航、17:00 末班／2012 年拍攝／Photo: rheins / CC BY 3.0 / Wikimedia Commons
+使用方式：裁成 4:5（left_bias=0.38），保留木步道、遊艇與遠山。無人臉、無車牌。屬往年畫面。
+未採用 Pixabay 備案（朝霧碼頭 2016，不是水社親水步道）。
+
+============================================================
+06.jpg｜桃米紙教堂
+============================================================
+檔名：File:紙教堂 Paper Dome - panoramio.jpg
+作者：lienyuan lee
+授權：CC BY 3.0（https://creativecommons.org/licenses/by/3.0）
+尺寸：5890×3926
+拍攝：2013-03-01
+Commons：https://commons.wikimedia.org/wiki/File:紙教堂_Paper_Dome_-_panoramio.jpg
+原圖：https://upload.wikimedia.org/wikipedia/commons/5/53/%E7%B4%99%E6%95%99%E5%A0%82_Paper_Dome_-_panoramio.jpg
+圖上標示：紙教堂／09:30–17:00　最後入園 16:30／2013 年拍攝／Photo: lienyuan lee / CC BY 3.0 / Wikimedia Commons
+使用方式：裁成 4:5（left_bias=0.48），以建築為主。遠處遊客很小，無法辨識，未做臉部模糊。屬往年畫面。
+未採用：File:Takatori Catholic Church.JPG（日本高取原紙教堂）。
+
+============================================================
+07.jpg｜資訊卡｜台灣好行 6670
+============================================================
+原創資訊卡。腳本：/workspace/posts/assets/make_nantou_info_cards.py
+（修改前已備份為 make_nantou_info_cards.py.bak）
+已依本次 brief 刪除「平日＝週一到週四，假日＝週五到週日」說明，並重排版面。
+其餘內容仍依 v2 文案：11/5 起改由臺中轉運中心發車、建國路 300 號一樓 G 區、也可在高鐵臺中站上車、11/1 已調過時刻、周日去程示例（07:45／08:45／08:20）、同一班幾乎不停兩站、回程與自駕提醒。
+無照片、無 Logo。未寫 11/15 還有煙火。
+
+============================================================
+08.jpg｜資訊卡｜開放時間
+============================================================
+原創資訊卡，同上腳本。
+已依本次 brief 刪除文武廟那一列，並重排剩餘 5 站（埔里酒廠、向山遊客中心、水社—向山自行車道、遊湖船、紙教堂）與「15 日沒有煙火」提醒，版面仍平衡。
+無照片、無 Logo。
+
+============================================================
+preview.jpg
+============================================================
+8 張 1080×1350 成圖的聯絡表，僅供內部對稿，不作為發文圖。
+
+============================================================
+建議第一則留言（不放授權清單；取自輪播 brief）
+============================================================
+📌 出發前請再看一次官方資訊：台灣好行 6670、南投客運、向山遊客中心、自行車道、遊湖船、埔里酒廠和紙教堂的最新公告與時刻表，班次和開放時間可能會臨時調整喔！
