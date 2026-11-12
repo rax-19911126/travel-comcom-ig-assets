@@ -1,0 +1,112 @@
+# travel.comcom｜2026-11-15 10:00「中部溫泉怎麼選」圖片出處與授權
+# 本檔僅供對稿與發文標示；圖片經 GitHub raw 公開託管，但尚未排程發文。
+# 授權與來源已標在各張圖片上。建議第一則留言只放出發前提醒，不放授權清單。
+# 圖上事實一律依照 /workspace/posts/20261115_1000_溫泉_caption.txt。
+# 本篇用來替代已取消的南投一日遊輪播。全組未使用 AI 生成圖，也未對照片做 AI 清晰化。
+
+============================================================
+授權總覽（Wikimedia Commons API 查證，User-Agent: IG-Retoucher/1.0）
+============================================================
+02–05 為 Wikimedia Commons 真實照片，經 imageinfo API 核對作者與授權後再使用。
+02、05 為 CC BY 3.0，需保留作者與授權標示。
+03、04 為 CC BY-SA 2.0，本張屬對原作的改編（裁切、調色、字體疊加），應依 ShareAlike 以相容授權標示與分享。
+封面底圖為 OpenStreetMap，資料授權 ODbL，圖上已保留 © OpenStreetMap contributors。
+第 6、7 張為自製資訊卡，無照片。
+
+============================================================
+01.jpg｜封面位置圖（自製圖直接轉 JPEG）
+============================================================
+來源：/workspace/posts/assets/20261115_hotspring_map.png（1080×1350 RGB PNG）
+繪製腳本：/workspace/posts/assets/make_hotspring_map.py
+底圖：官方 OpenStreetMap 圖磚（再調成深色科技感）
+圖上既有標示：中部溫泉怎麼選／谷關・泰安・北港溪・東埔；圖釘 01 泰安、02 谷關、03 北港溪、04 東埔（僅標點、不連線，避免被看成一日串遊路線）
+圖下方金黃字：廬山溫泉區已公告廢止，不列入本次推薦（地圖上沒有廬山圖釘）
+頁尾：© OpenStreetMap contributors／底圖：OpenStreetMap　位置僅供參考，不是一連串行程路線
+使用方式：按原尺寸轉成 sRGB JPEG（quality 90），未改構圖。
+
+============================================================
+02.jpg｜谷關溫泉公園
+============================================================
+檔名：File:谷關温泉公園 Guguan Hot Springs Park - panoramio.jpg
+（Commons 檔名用「温泉」，不是「溫泉」；以 API 實際標題為準。）
+作者：lienyuan lee
+授權：CC BY 3.0（https://creativecommons.org/licenses/by/3.0）
+尺寸：5904×3936
+拍攝：2013-03-01
+Commons：https://commons.wikimedia.org/wiki/File:谷關温泉公園_Guguan_Hot_Springs_Park_-_panoramio.jpg
+原圖：https://upload.wikimedia.org/wikipedia/commons/c/cf/%E8%B0%B7%E9%97%9C%E6%B8%A9%E6%B3%89%E5%85%AC%E5%9C%92_Guguan_Hot_Springs_Park_-_panoramio.jpg
+圖上標示：谷關溫泉／GUGUAN　臺中和平／2013 年拍攝／Photo: lienyuan lee / CC BY 3.0 / Wikimedia Commons
+使用方式：裁成 4:5（left_bias=0.08），保住左側「谷關溫泉」石碑、中間水池造景與後方山景。無人臉、無車牌。屬往年畫面，未寫成 2026 即時。
+未採用：谷關吊橋（黃色施工網較明顯）；谷關遊客中心街道照，辨識度較弱。
+
+============================================================
+03.jpg｜泰安溫泉區入口（未換圖）
+============================================================
+檔名：File:Entrance to the Taian Hot Spring.jpg
+作者：Neeson Hsu
+授權：CC BY-SA 2.0（https://creativecommons.org/licenses/by-sa/2.0）
+尺寸：1600×1200
+拍攝：2014-08-10
+Commons：https://commons.wikimedia.org/wiki/File:Entrance_to_the_Taian_Hot_Spring.jpg
+原圖：https://upload.wikimedia.org/wikipedia/commons/4/4d/Entrance_to_the_Taian_Hot_Spring.jpg
+圖上標示：泰安溫泉／TAI'AN　苗栗泰安／2014 年拍攝／Photo: Neeson Hsu / CC BY-SA 2.0 / Wikimedia Commons
+使用方式：裁成 4:5（left_bias=0.10），保住「泰安」石與「泰安鄉泰雅溫泉」立柱。4:5 可用寬度約 960 px，放大到 1080×1350 會稍微軟；依 brief 未再過度銳化（downscale 時關閉 UnsharpMask），調色也較輕。地名標籤放在右下，避免蓋住「泰安」石。無人臉、無車牌。屬往年畫面。
+未換圖原因（2026-11-12 查 Commons）：
+- 搜過「泰安溫泉」「苗栗泰安溫泉」「Taian Hot Spring」「Tai'an Hot Spring」與泰安溫泉座標 10 公里內的 geosearch。
+- 「戀情溫泉會館」系列（作者 fullfen666，皆為 1800×1200，僅略大於所列圖）帶有「滿分的旅遊札記」浮水印，依規則不用。
+- File:泰安警光山莊 女湯 男湯 20140103.jpg（ChingHua Chung，CC BY 2.0，4000×2672）解析度較高，但畫面是室內更衣室的女湯／男湯布簾，不能代表泰安溫泉區，因此不用。
+- 沒有找到其他同樣能清楚標出苗栗泰安溫泉區、開放授權、且沒有浮水印的更高解析度實景照，故維持 brief 所列入口照。
+
+============================================================
+04.jpg｜北港溪溫泉區／泰雅渡假村園區（2014 往年實景）
+============================================================
+檔名：File:2014 01 泰雅渡假村21.jpg
+作者：Joe Lo
+授權：CC BY-SA 2.0（https://creativecommons.org/licenses/by-sa/2.0）
+尺寸：3840×2160
+拍攝：2014-01-05
+Commons：https://commons.wikimedia.org/wiki/File:2014_01_泰雅渡假村21.jpg
+原圖：https://upload.wikimedia.org/wikipedia/commons/e/ea/2014_01_%E6%B3%B0%E9%9B%85%E6%B8%A1%E5%81%87%E6%9D%9121.jpg
+圖上標示：北港溪溫泉區／BEIGANGXI　南投國姓／泰雅渡假村園區（2014 年實景）／Photo: Joe Lo / CC BY-SA 2.0 / Wikimedia Commons
+使用方式：裁成 4:5（left_bias=0.45），保住園區幾何花圃、鐘樓與後方北港溪河谷，不是只剩草坪。這張是高點／空拍園區實景，不是湯池，也不是 2026 即時畫面。遠處遊樂區有極小、無法辨識的人影，未做臉部模糊。廣場中央為雕像，不是遊客。
+未採用：同系列 04.jpg（鐘樓前景有較明顯的人物）；惠蓀林場建築照是林場，不是溫泉區；國姓糯米橋是北港溪地標，但不是溫泉本身。
+
+============================================================
+05.jpg｜東埔村山城
+============================================================
+檔名：File:東埔村 Dongpu Village - panoramio.jpg
+作者：lienyuan lee
+授權：CC BY 3.0（https://creativecommons.org/licenses/by/3.0）
+尺寸：5692×3794
+拍攝：2015-06-24
+Commons：https://commons.wikimedia.org/wiki/File:東埔村_Dongpu_Village_-_panoramio.jpg
+原圖：https://upload.wikimedia.org/wikipedia/commons/f/fd/%E6%9D%B1%E5%9F%94%E6%9D%91_Dongpu_Village_-_panoramio.jpg
+圖上標示：東埔溫泉／DONGPU　南投信義／東埔村山城，2015 年拍攝／Photo: lienyuan lee / CC BY 3.0 / Wikimedia Commons
+使用方式：裁成 4:5（left_bias=0.48），保住雲霧中的東埔溫泉聚落與山景。屬往年實景，不是湯池特寫。無人臉、無車牌。
+未改用備案：File:東埔吊橋 Dongpu Suspension Bridge - panoramio (2).jpg（lienyuan lee，CC BY 3.0，2015）；以及 2021 年其他東埔展望照。所列這張辨識度高，故採用。
+
+============================================================
+06.jpg｜資訊卡｜廬山溫泉現況
+============================================================
+原創資訊卡。腳本：/workspace/posts/assets/make_hotspring_info_cards.py
+來源檔：/workspace/posts/assets/20261115_hotspring_info_lushan.png（1080×1350）
+內容依定稿文案：2012 年縣府公告廢止特定區、劃為保護區及河川區、2026 年 1 月觀光處仍籲請勿接近危險建物、違規營業會裁罰；遷建方向是埔里福興，公共設施與免費足湯已有開放，但大規模旅宿還在興建，不能當成住宿泡湯替代區；因此改介紹北港溪。
+使用方式：按原尺寸轉成 sRGB JPEG（quality 90），未改構圖、未改文字。全尺寸檢查無重疊、無錯字。無照片、無 Logo、無 AI 圖。
+
+============================================================
+07.jpg｜資訊卡｜泡湯安全與出門提醒
+============================================================
+原創資訊卡，同上腳本。
+來源檔：/workspace/posts/assets/20261115_hotspring_info_safety.png（1080×1350）
+內容依定稿文案：衛福部國民健康署天冷泡湯叮嚀（飯後或飲酒後隔 1.5–2 小時、水溫勿超過 40℃、每次勿超過 15 分鐘、補水、起身要慢、結伴、心血管疾病先諮詢醫師、不適打 119）；山區路況、假日先訂、合法溫泉標章；泰安「滿額幸運刮」2026/11/1–2027/3/31、特約店家單筆滿 1,500 元可兌換，以苗栗文化觀光旅遊網為準。
+使用方式：按原尺寸轉成 sRGB JPEG（quality 90），未改構圖、未改文字。全尺寸檢查無重疊、無錯字。無照片、無 Logo、無 AI 圖。
+
+============================================================
+preview.jpg
+============================================================
+7 張 1080×1350 成圖的聯絡表，僅供內部對稿，不作為發文圖。
+
+============================================================
+建議第一則留言（不放授權清單；全文取自定稿 caption）
+============================================================
+📌 出發前請再看一次官方資訊：交通部觀光署、南投旅遊網、苗栗文化觀光旅遊網、衛福部國民健康署、台灣好行，以及南投縣政府對廬山溫泉區的最新說明。路況、班次、營業與活動都可能異動喔！
