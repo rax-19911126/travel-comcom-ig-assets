@@ -32,18 +32,40 @@ Wikimedia Commons：https://commons.wikimedia.org/wiki/File:Sea_of_Flower_in_Xin
          Photo: Dquai / CC BY-SA 4.0 / Wikimedia Commons
 
 ============================================================
-03.jpg｜國立臺灣美術館外觀（示意）
+03.jpg｜國立臺灣美術館外觀
 ============================================================
-來源種類：AI 生成示意畫面（非實景外觀）
-改用原因：brief 建議之 File:National_Taiwan_Museum_of_Fine_Arts_20170122.jpg
-（Mariversa，CC BY-SA 2.0，2017-01-22）經查確實存在且授權如述，但畫面主體是 2016「一座島嶼的可能性」等展覽巨型戶外海報，屬展覽平面／作品圖，與「不要使用展覽作品圖」衝突，且易被誤認為當期展。另查多張正面實景（20150510、外觀 20091115、NTMoFA-1 以外多數正面照等）同樣被過往展覽海報佔據。改以不帶海報、招牌與戶外雕塑的建築示意生成，並標「示意畫面（非實景外觀）」。
+來源種類：公開實景照片（往年館舍外觀，2017 年拍攝；畫面含 2016「一座島嶼的可能性」戶外展覽海報，非 2026 當期展）
+選用檔案：National_Taiwan_Museum_of_Fine_Arts_20170122.jpg
+Wikimedia Commons：https://commons.wikimedia.org/wiki/File:National_Taiwan_Museum_of_Fine_Arts_20170122.jpg
+原圖：https://upload.wikimedia.org/wikipedia/commons/6/64/National_Taiwan_Museum_of_Fine_Arts_20170122.jpg
+作者：Mariversa
+授權：CC BY-SA 2.0
+授權條款：https://creativecommons.org/licenses/by-sa/2.0
+拍攝日期：2017-01-22
+Flickr 來源：https://www.flickr.com/photos/mariversa/32475769505
+使用方式：裁切為 4:5（left_bias=0.55），略偏右側以切掉左側另一幅海報邊緣，保留館名招牌與入口雨庇。
+圖上標示：國美館週末 09:00–18:00・免費
+         11/14 比爾．豐塔納新展開展
+         往年館舍外觀（2017 年拍攝）
+         Photo: Mariversa / CC BY-SA 2.0 / Wikimedia Commons
+備註：已優先尋找更乾淨、無過往展覽海報的 Commons 正面／側面高解析實景，未找到堪用者。較乾淨的替代如 NTMoFA-1.jpg（Essolo，CC BY-SA 3.0，2005，僅 1024×768）解析度不足；夜間入口照與廣場側面照亦較弱。依使用者回饋，在沒有更乾淨畫面時改用本張 Mariversa 2017 實景，並於圖上標「往年館舍外觀」。
 
 ============================================================
-04.jpg｜臺中市立美術館／綠美圖（示意）
+04.jpg｜臺中市立美術館／台中綠美圖館舍外觀
 ============================================================
-來源種類：AI 生成示意畫面（非實景；依 brief 避免誤用官方空拍）
-圖上標示：中美館．真鍋大度個展至 2027/1/3／週六 09:00–20:00／示意畫面
-畫面為曲線玻璃量體的當代美術館示意，無館名招牌。
+來源種類：公開實景照片（2025 年啟用後的綠美圖館舍，地面視角）
+選用檔案：Taichung Main Public Library (Taichung Green Museumbrary) 2025-11-05.jpg
+Wikimedia Commons：https://commons.wikimedia.org/wiki/File:Taichung_Main_Public_Library_(Taichung_Green_Museumbrary)_2025-11-05.jpg
+原圖：https://upload.wikimedia.org/wikipedia/commons/3/3a/Taichung_Main_Public_Library_%28Taichung_Green_Museumbrary%29_2025-11-05.jpg
+作者：Foxy1219
+授權：CC BY-SA 4.0
+授權條款：https://creativecommons.org/licenses/by-sa/4.0
+拍攝日期：2025-11-05
+使用方式：裁切為 4:5（left_bias=0.55），保留入口列柱、草坪與右側部分金屬網格量體。
+圖上標示：中美館．真鍋大度個展至 2027/1/3
+         週六 09:00–20:00
+         Photo: Foxy1219 / CC BY-SA 4.0 / Wikimedia Commons
+備註：綠美圖為臺中市立圖書館總館與臺中市立美術館的共構園區。Commons 檔名與描述標為臺中市立圖書館總館／綠美圖，畫面為同一園區的地面外觀與入口，並非單獨標示「中美館」入口的特寫。另有 brian25_tw《2025.11.02 Taichung Green Museumbrary.jpg》（CC BY-SA 4.0，空拍俯視全區）可用，但地面到達視角較符合本篇週末走訪語氣。市府新聞照片多為 GWOIA／Attribution only，未優先採用。
 
 ============================================================
 05.jpg｜勤美誠品綠園道外觀
@@ -72,6 +94,7 @@ Wikimedia Commons：https://commons.wikimedia.org/wiki/File:View_of_Park_Lane_by
 ============================================================
 1. Dquai，Wikimedia Commons《The Calligraphy Greenway in Taichung.jpg》，CC BY-SA 4.0（https://creativecommons.org/licenses/by-sa/4.0），草悟道往年街區（2018 年拍攝，非 2026 耶誕裝置）。
 2. Dquai，Wikimedia Commons《Sea of Flower in Xinshe.jpg》，CC BY-SA 4.0，往年新社花海示意（非 2026 主題裝置）。
-3. 第 3 張國美館為示意生成畫面：brief 建議之 Mariversa《National Taiwan Museum of Fine Arts 20170122.jpg》（CC BY-SA 2.0）經查存在且授權如述，但畫面以 2016 年展覽戶外海報為主體，為避免使用展覽作品圖並防止被誤認為當期展，故改為不帶海報的建築示意。
-4. Tbatb，Wikimedia Commons《View of Park Lane by CMP from Gongyi Road, Taichung.jpg》，CC BY-SA 4.0，勤美誠品綠園道往年建築外觀（2021 年拍攝，非 2026 燈飾）。
-第 4 張為中美館示意生成畫面，第 6 張為自行製圖。本篇不使用官方活動海報或有版權的角色形象。
+3. Mariversa，Wikimedia Commons《National Taiwan Museum of Fine Arts 20170122.jpg》，CC BY-SA 2.0（https://creativecommons.org/licenses/by-sa/2.0），國美館往年館舍外觀（2017-01-22 拍攝；畫面含 2016 年展覽戶外海報，非 2026 當期展）。
+4. Foxy1219，Wikimedia Commons《Taichung Main Public Library (Taichung Green Museumbrary) 2025-11-05.jpg》，CC BY-SA 4.0（https://creativecommons.org/licenses/by-sa/4.0），台中綠美圖館舍實景（2025-11-05 拍攝；綠美圖為圖書館與中美館共構園區）。
+5. Tbatb，Wikimedia Commons《View of Park Lane by CMP from Gongyi Road, Taichung.jpg》，CC BY-SA 4.0，勤美誠品綠園道往年建築外觀（2021 年拍攝，非 2026 燈飾）。
+第 6 張為自行製圖。本篇不使用官方活動海報或有版權的角色形象。
