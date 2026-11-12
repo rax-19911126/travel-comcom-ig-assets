@@ -1,0 +1,32 @@
+# travel.comcom｜2026-11-16（一）10:00「星宇台中出發」v5（雜誌風＋票價，刪除峴港、富國島，共 9 張）圖片出處與授權
+# 文案：/workspace/posts/20261116_1000_機票_v4_caption.txt（使用者已同意）
+# 數字與文字一律照抄 /workspace/posts/20261116_1000_機票_v4_票價表.md（查證日期 2026-11-12）；程式內已自動比對逐字一致。
+# 票價皆為官網航線頁「自 TWD ○○* 起」，* = 過去 48 小時搜尋最低來回經濟艙票價，會變動。
+# 全組只用 Wikimedia Commons 開放授權實景照與自製卡片；未使用 AI 生成，未使用星宇或任何航空公司 Logo。
+# 作者／授權／拍攝年份以小字標在每張照片旁。CC BY-SA 照片經裁切、調色、疊字屬改作，依 ShareAlike 以相容授權標示。
+# 編號依文案「星宇・台中出發，旅展怎麼看」清單順序：1 宮古島 2 沖繩 3 熊本 4 高松 5 名古屋 6 東京成田 7 神戶 8 札幌 9 釜山 10 澳門（峴港、富國島 v5 起不列）。
+# 紅色＋「推薦」＝文案「先看這 4 條」：宮古島、澳門、東京成田、札幌。
+# 產生程式：work/build_v5.py（01–08）、/workspace/ig-assets/templates/make_cta_card.py（09）
+
+01.jpg｜封面航線圖（v5：依使用者 11/12 決定拿掉峴港、富國島兩條航線與標籤；副標「12 個航點　不必先跑桃園」改為「不必先跑桃園」；其餘與已核准封面相同）
+  產生程式：/workspace/posts/assets/make_starlux_rmq_routes_v5.py｜底圖：Natural Earth（公有領域）
+02.jpg｜台中出發票價總表（自製卡，無照片）。10 條有價格的航點由低到高；峴港、富國島不列。
+  來源：星宇航空官網各航線頁、台中出發適用條件表｜查證日期 2026-11-12
+03.jpg｜1 宮古島（大圖）＋2 沖繩（傾斜相片）
+  宮古島 與那霸前濱海灘：File:202408_Yonaha_Maehama_Beach_around_11_o'clock_in_summer_(JK-DSC0765).jpg｜Junyu-K｜CC BY-SA 4.0｜2024
+  沖繩 萬座毛：File:Cape_Manzamo,_Onna,_Okinawa_-_Feb_17,_2019.jpg｜Nelo Hotsuma｜CC BY 2.0｜2019
+04.jpg｜3 熊本（大圖）＋4 高松（傾斜相片）
+  熊本城：File:Kumamoto_Castle_04n4272.jpg｜663highland｜CC BY 2.5｜2009（裁掉步道遊客）
+  高松 栗林公園：File:Ritsurin Garden.jpg｜Mason tang photography｜CC BY-SA 4.0｜2018（無浮水印替代照）
+05.jpg｜5 名古屋（大圖）＋6 東京成田（傾斜相片）
+  名古屋城：File:Nagoya_Castle_(67295).jpg｜Syced｜CC0｜2025
+  東京晴空塔：File:20181123_Tokyo_Skytree-2.jpg｜Balon Greyjoy｜CC0｜2018
+06.jpg｜7 神戶（大圖）＋8 札幌（傾斜相片）
+  神戶港塔：File:Kobe_Port_Tower_at_night.jpg｜Pauloleong2002｜CC BY-SA 4.0｜2017
+  札幌大通公園：File:Odori_park_at_Sapporo_TV_tower.jpg｜LR0725｜CC BY-SA 4.0｜2023
+07.jpg｜9 釜山（大圖）＋10 澳門（傾斜相片）
+  釜山廣安大橋：File:Busan_Gwangan_Bridge_pylon_at_night_01.jpg｜Spike｜Public domain｜2014
+  澳門大三巴：File:Macau_-_Ruins_of_Saint_Paul's_(Ank_Kumar)_01.jpg｜Ank Kumar｜CC BY-SA 4.0｜2016（只用上方 62%，裁掉階梯人群）
+08.jpg｜重點整理（自製卡，6 行照抄新版票價表；第 5 行為「台中直飛，不用先跑桃園」）
+09.jpg｜固定結尾互動卡（模板 templates/cta_card.png；emoji 用 Noto Color Emoji 繪製）
+
