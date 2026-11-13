@@ -1,0 +1,17 @@
+# travel.comcom｜2026-11-17（二）10:00「3 天 2 夜行李打包清單」v3 完整套圖
+# 01–03 沿用已核准的 v3b 樣張（封面、行動電源、液體），未重繪。
+# 04–07 依同一套資訊層級與格線新做；08 為固定結尾卡 templates/cta_card.png。
+# 文案檔未改；建議見 caption_notes.txt。查證日期 2026-11-13（台北時間）。
+# 風格：奶油底、jf-openhuninn 自行排字、重用 v2 kawaii 物件插畫。未使用 Twemoji。
+# 產生程式：/workspace/posts/20261117_1000_packing/work_v3_final/build_final.py（04–08）；
+#           /workspace/posts/20261117_1000_packing/work_v3b/build_sample.py（01–03）
+
+01_cover.jpg｜封面（v3b 原檔）。
+02_powerbank.jpg｜行動電源（v3b 原檔）。
+03_liquids.jpg｜液體（v3b 原檔）。
+04_documents.jpg｜證件與行前必帶：圖文配對清單。
+05_clothes_meds.jpg｜衣物與冬季保暖＋藥品與盥洗：依內容量分配，不對等切框。
+06_prohibited.jpg｜禁帶與要放託運：改放託運／只能隨身／都不能帶 三區對照。
+07_domestic.jpg｜國內小旅行：沒搭飛機／有搭飛機（含國內線）對照。
+08_cta.jpg｜固定結尾互動卡。
+caption_notes.txt｜給內容製作的完整文案與來源建議，未寫入 caption 檔。
