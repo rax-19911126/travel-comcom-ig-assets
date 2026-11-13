@@ -1,0 +1,10 @@
+# travel.comcom｜2026-11-17（二）10:00「3 天 2 夜行李打包清單」v3b 樣張
+# 僅封面＋行動電源頁＋液體頁，尚未重做整套。文案檔未改；建議見 caption_notes.txt。
+# 查證日期 2026-11-13。
+# 風格延續 v3：奶油底、jf-openhuninn 自行排字、重用 v2 kawaii 物件插畫。未使用 Twemoji。
+# 產生程式：/workspace/posts/20261117_1000_packing/work_v3b/build_sample.py
+
+01_cover.jpg｜封面：行李箱略縮小，拉開與副標、底部線條的距離。標題層級與插畫風格不變。
+02_powerbank.jpg｜行動電源獨立頁：重點數字（2 個／100Wh／160Wh）＋手提／託運對照＋機上不可使用、充電。國內外航班都要遵守。
+03_liquids.jpg｜液體獨立頁：步驟（100 毫升、1 公升袋）＋國際線／國內線對照＋例外向航警申報。
+caption_notes.txt｜給內容製作的文案與來源建議，未寫入 caption 檔。
