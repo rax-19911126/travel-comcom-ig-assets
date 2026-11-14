@@ -1,0 +1,42 @@
+travel.comcom｜2026-11-18（三）10:00 台北時間｜中部落羽松哪裡看｜final_v1（7 張，1080×1350 PNG）
+製作：2026-11-15（Asia/Taipei）。無任何 AI 生成圖像（無 AI 背景、圖示或吉祥物）。
+
+【檔案】
+01_cover.png            封面：標題＋自繪中部示意地圖（后里、文心、太平、大村、成美、向山，只標點，不連路線）
+02_houli_photo.png      后里泰安落羽松 往年實景 · 2017
+03_houli.png            后里三處（羽粼／環保公園／麗寶落羽松大道）＋往年轉紅時間
+04_taichung.png         文心森林公園／太平苗圃／新都生態公園／新社、大坑
+05_nantou_changhua.png  日月潭向山／成美文化園／大村落羽松
+06_timing_tips.png      觀賞期時間軸＋出發前 4 點提醒
+07_cta.png              固定互動結尾卡（沿用 packing v3 結尾卡版型，改秋季配色）
+
+【照片授權】
+02：File:【台中泰安。落羽松】_(31264533983).jpg（Wikimedia Commons）
+    作者 fullfen666，授權 CC BY-SA 2.0（https://creativecommons.org/licenses/by-sa/2.0/），拍攝於 2017-01-03。
+    https://commons.wikimedia.org/wiki/File:【台中泰安。落羽松】_(31264533983).jpg
+    修改：從 1800×1200 原圖裁切 4:5（x=420–1380），用 Lanczos 放大到 1080×1350，未銳化；加漸層、文字與標籤。
+    裁切後原圖右下角的作者浮水印已不在畫面內；圖上已標作者與授權。
+    改作後的 02 圖依 CC BY-SA 2.0 以相同授權釋出。
+
+【地圖】
+01 封面底圖：Natural Earth 1:10m Admin-1（公有領域，naturalearthdata.com），用 PIL 自繪，標示為位置示意。未使用 OSM。
+    點位是約略座標，只表示位置：后里泰安國小 24.3256,120.7495／文心森林公園 24.1367,120.6477／
+    太平東汴一帶 24.125,120.78／大村 23.995,120.555／成美文化園 23.9196,120.5486／向山遊客中心 23.8502,120.9013。
+
+【圖示】
+Microsoft Fluent Emoji（3D 版），MIT License，https://github.com/microsoft/fluentui-emoji
+使用：evergreen_tree, deciduous_tree, fallen_leaf, maple_leaf, round_pushpin, admission_tickets, automobile,
+p_button, alarm_clock, spiral_calendar, water_wave, fork_and_knife_with_plate, telephone_receiver, prohibited,
+footprints, wastebasket, sparkles, red_heart, outbox_tray, speech_balloon, backhand_index_pointing_right (default)
+字型：Noto Sans CJK TC（SIL OFL 1.1）。
+
+【資料來源】（查證：IG 內容製作，2026-11-13）
+- 臺中市觀旅局〈搭乘台灣好行888路豐后線　悠遊中市秋冬限定落羽松〉2023-11-28：11 月至隔年 2 月、麗寶約 1 公里免費
+- 臺中市建設局〈秋冬美景正盛！后里、南屯、太平落羽松接力轉色〉2025-12-16：后里環保公園 10 月起轉色、文心 11 月起、太平苗圃
+- 建設局賞樹景點頁 北屯區新都生態公園
+- 臺中觀光旅遊網「泰安落羽松」：泰安國小旁、超過 800 棵
+- 日月潭國家風景區管理處「婚紗廣場／向山落羽松」、向山遊客中心停車場頁
+- 成美文化園官網參觀資訊（cmcp1885.com/guest.html）
+- 大村落羽松：往年報導，2026 年未見官方公告
+
+【刻意不寫】羽粼清潔費金額（只寫「看園方公告」）；2026 年即時轉紅進度；石岡。
