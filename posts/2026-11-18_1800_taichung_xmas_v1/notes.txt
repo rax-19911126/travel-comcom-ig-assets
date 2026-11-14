@@ -1,0 +1,53 @@
+2026-11-18（三）18:00 台中耶誕燈飾與聖誕活動 — 圖片 v1（6 張，1080×1350 PNG）
+製作：2026-11-15（Asia/Taipei）。依最終定稿文案 /workspace/posts/20261118_1800_caption.txt。
+全組不使用任何 AI 生成圖（無 AI 背景、吉祥物或圖示）。
+
+張數
+01_cover.png         封面（嘉年華／勤美／廣三 SOGO 三張實景＋日期）
+02_old_station.png   2026 台中耶誕嘉年華主視覺（2025 年實景滿版）
+03_carnival.png      嘉年華看點：主燈、燈區、水舞、藝文表演、交通
+04_parklane.png      勤美草悟聖誕村
+05_sogo.png          廣三 SOGO 聖誕樹點燈
+06_cta.png           固定結尾卡（文案逐字照固定版本）
+
+照片（皆為 Wikimedia Commons，授權已在單張頁確認；圖上皆標「往年實景 · 年份」＋小字 Photo: 作者 / 授權）
+1) 01、02 — File:2025.12.18 TRC Taichung Station with Old Taichung Station (1917) at night.jpg
+   https://commons.wikimedia.org/wiki/File:2025.12.18_TRC_Taichung_Station_with_Old_Taichung_Station_(1917)_at_night.jpg
+   作者 brian25_tw｜CC BY-SA 4.0｜拍攝 2025-12-18（2025 台中耶誕嘉年華）。02 另加註「照片為 2025 年嘉年華實景，非 2026 主燈「童話奇想曲」」。
+2) 03 — File:Taichung Old Station (Night), Dec 2024.jpg
+   https://commons.wikimedia.org/wiki/File:Taichung_Old_Station_(Night),_Dec_2024.jpg
+   作者 Ralff Nestor Nacor｜CC BY-SA 4.0｜拍攝 2024-12-07。（裁切只保留立面上半部，亮度 +30%）
+3) 01、04 — File:勤美 誠品綠園道 201905.jpg
+   https://commons.wikimedia.org/wiki/File:%E5%8B%A4%E7%BE%8E_%E8%AA%A0%E5%93%81%E7%B6%A0%E5%9C%92%E9%81%93_201905.jpg
+   作者 Wpcpey｜CC BY 4.0｜拍攝 2019-05（勤美誠品綠園道夜景，非聖誕村佈置）。
+4) 01、05 — File:SOGO Taichung overview January 2020.jpg
+   https://commons.wikimedia.org/wiki/File:SOGO_Taichung_overview_January_2020.jpg
+   作者 Tiouraren (Y.-C. Tsai)｜CC BY-SA 4.0｜拍攝 2020-01-22（廣三 SOGO 外觀夜景，非聖誕樹）。
+CC BY-SA 圖改作（裁切、加字）後之成品依相同授權條件標示。
+
+圖示與裝飾
+- 圖示：Microsoft Fluent Emoji 3D（MIT License）https://github.com/microsoft/fluentui-emoji
+  使用：Christmas tree, Sparkles, Glowing star, Wrapped gift, Bell, Round pushpin, Calendar, Fountain, Performing arts,
+  Train, Automobile, Shopping bags, P button, Department store, Red heart, Outbox tray, Speech balloon,
+  Backhand index pointing right (default)。
+- 背景、星點、光斑、雪花、彩色燈串：全部以 PIL 程式繪製（work/build.py）。
+- 字體：Noto Sans CJK TC（SIL OFL）。
+
+事實來源（同文案；查證日 2026-11-13，圖上文字僅取自最終文案）
+- 台中耶誕嘉年華：臺中市政府新聞局 https://www.taichung.gov.tw/8868/8872/9962/3402836
+  12/14（一）–2027/1/3（日）、每日 17:30–22:00、舊台中火車站前廣場・綠川・柳川、主題「夢幻童話」、
+  舊站前 17 公尺主燈「童話奇想曲」、燈區名稱、柳川「瘋狂國度」水舞（平日 17:30 起／週末與耶誕節 19:30 起每半小時）、
+  週五–週日舊站前藝文表演；交通（台鐵臺中站、臺中交通網）照最終文案。
+- 勤美草悟聖誕村：勤美誠品綠園道官方活動頁（parklane.com.tw）— 11/13（五）–2027/1/4（一）、
+  勤美術館・勤美誠品・PARK2・金典綠園道、主樹「流光之森」（NOIZ）、光之道、商場營業時間；停車照最終文案。
+- 廣三 SOGO：官方活動頁 https://www.kssogo.com.tw/news_detail.php?Key=2928 — 11/21（六）17:30、1 樓廣場聖誕樹點燈儀式、
+  西區臺灣大道二段 459 號。
+
+刻意省略（依內容組指示）
+- 圖上不出現施工／布展／交管／封閉／1999／「尚未公布」類字樣，不加「免費」，不提新光／中友／大遠百／麗寶／秋紅谷。
+- 勤美每日亮燈時段、SOGO 聖誕樹展期未知 → 直接不寫。
+- 原需求的「尚未公布」圖卡已取消。
+
+QA
+- 所有 pill 以 font.getbbox 雙軸置中；建置時自動檢查左右、上下留白差 ≤1.5px（6 張共 34 個 pill，0 個偏移）。
+- grid montage + 每張原尺寸檢視；禁字 grep 0 筆。
